@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1792925047376",
+    "name": "Sristy Sinha",
+    "email": "sristysinha546@gmail.com",
+    "password": "$2b$10$uVCli00FdOdT6f2Wzc/nI.vblsGvTAbYOKFzH4G8p0L.CnBTclaXS",
+    "isVerified": false,
+    "otp": "751429",
+    "otpExpiresAt": 1792925422822,
+    "createdAt": "2026-10-25T10:44:07.376Z"
+  }
+]
